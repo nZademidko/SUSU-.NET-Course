@@ -1,0 +1,84 @@
+﻿{
+	"groups": [
+		{
+			"name": "Choir",
+			"instruments": [
+				{
+					"type": "Piano",
+					"isAvailable": true,
+					"person": "John"
+				},
+				{
+					"type": "Drum",
+					"isAvailable": true,
+					"person": "Katie"
+				},
+				{
+					"type": "BassGuitar",
+					"isAvailable": false,
+					"person": "Franky"
+				}
+			]
+		},
+		{
+			"name": "Pop",
+			"instruments": [
+				{
+					"type": "Guitar",
+					"isAvailable": false,
+					"person": "Nikita"
+				},
+				{
+					"type": "Drum",
+					"isAvailable": true,
+					"person": "Mike"
+				},
+				{
+					"type": "Organ",
+					"isAvailable": false,
+					"person": "Vyacheslav"
+				}
+			]
+		},
+		{
+			"name": "Hendie",
+			"instruments": [
+				{
+					"type": "Drum",
+					"isAvailable": false,
+					"person": "Bob"
+				},
+				{
+					"type": "Guitar",
+					"isAvailable": true,
+					"person": "John"
+				},
+				{
+					"type": "Congas",
+					"isAvailable": false,
+					"person": "Lui"
+				}
+			]
+		},
+		{
+			"name": "Love",
+			"instruments": [
+				{
+					"type": "Guitar",
+					"isAvailable": true,
+					"person": "Karl"
+				},
+				{
+					"type": "Guitar",
+					"isAvailable": false,
+					"person": "Clara"
+				},
+				{
+					"type": "Guitar",
+					"isAvailable": false,
+					"person": "Karali"
+				}
+			]
+		}
+	]
+}

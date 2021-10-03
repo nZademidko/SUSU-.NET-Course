@@ -1,0 +1,48 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Nikita\\RiderProjects\\Course3\\Course3\\Course3.csproj",
+    "projectName": "Course3",
+    "projectPath": "C:\\Users\\Nikita\\RiderProjects\\Course3\\Course3\\Course3.csproj",
+    "outputPath": "C:\\Users\\Nikita\\RiderProjects\\Course3\\Course3\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "net472"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net472": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net472": {
+      "dependencies": {
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[13.0.1, )"
+        },
+        "System.Text.Json": {
+          "target": "Package",
+          "version": "[6.0.0-rc.1.21451.13, )"
+        }
+      }
+    }
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}

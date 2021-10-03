@@ -1,0 +1,12 @@
+[INFO] Init ViewModel
+[INFO] Start Programm
+[INFO] Initialize ViewModel
+[INFO] Initialize DataBase
+[INFO] Start Program
+[INFO] ViewModel Initialized
+[INFO] Initialize DataBase...
+[INFO]  DataBase initialized
+[INFO] Parsing Json to List...
+[INFO] Json to List was parsed.
+[INFO] Register Observer.
+[INFO] Unregister Observer.
